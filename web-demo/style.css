@@ -1,0 +1,40 @@
+#blockchain-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .blockchain-row {
+    display: flex;
+  }
+  
+  .blockchain-block {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid black;
+    font-size: 20px;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+  }
+  
+  #popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 80%;
+    height: 80%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border: 2px solid black;
+  }
+  
+  #popup-close {
+    margin-top: 10px;
+  }
+  
+
+  
