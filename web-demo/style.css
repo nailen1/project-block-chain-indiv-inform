@@ -225,8 +225,14 @@
 
 .close-btn {
   margin-right: 10px;
+  background-color: var(--bs-primary);
+
 }
 
+.delete-btn {
+  background-color: var(--bs-danger);
+
+}
 #last-block {
   z-index: 1;
   border: 3px solid rgba(0, 0, 0, 0.2);
