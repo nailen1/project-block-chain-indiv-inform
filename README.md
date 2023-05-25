@@ -1,4 +1,4 @@
-# 🧱 Blockchain Project
+# 🧱 Blockchain Project: MY DATA
 
 ## ✏️ 프로젝트명
 - 개인정보의 소유 주체인 개인이 자신의 개인정보를 주체적으로 전수 관리 감독할 수 있는 블록체인 시스템 구현
